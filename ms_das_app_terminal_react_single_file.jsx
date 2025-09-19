@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 
 /*
-  MS-DOS-like Terminal
+  MS-DAS-APP Terminal
   --------------------
   Single-file React component (default export) that renders an MS-DOS style terminal UI
   and implements a simple command interpreter + in-memory virtual filesystem.
